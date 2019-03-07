@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Fragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submit">Submit</string>
+    <string name="enter_message">Enter message</string>
+    <string name="hello_world">Hello World</string>
+    <string name="work_in_progress_picture">Work in progress Picture</string>
+
+    <string name="tv_nameNietzsche">Friedrich Wilhelm Nietzsche</string>
+    <string name="tv_descriptionNietzsche">A German philosopher, cultural critic, composer, poet, philologist, and a Latin and Greek scholar.</string>
+
+    <string name="tv_nameBruce">Bruce Lee</string>
+    <string name="tv_descriptionBruce">Actor, film director, martial artist, martial arts instructor, philosopher, and founder of the martial art Jeet Kune Do.</string>
+
+    <string name="tv_nameMao">Mao Zedong</string>
+    <string name="tv_descriptionMao">Chinese communist revolutionary who became the founding father of the People\'s Republic of China.</string>
+
+    <string name="tv_nameTesla">Nikola Tesla</string>
+    <string name="tv_descriptionTesla">Inventor, electrical engineer, mechanical engineer, and futurist who is best known for his contributions to alternating current.</string>
+
+    <string name="tv_nameEinstein">Albert Einstein</string>
+    <string name="tv_descriptionEinstein">Theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics (alongside quantum mechanics).</string>
+</resources>

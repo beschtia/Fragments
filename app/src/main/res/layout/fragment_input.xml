@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".InputFragment"
+    android:orientation="horizontal"
+    android:layout_gravity="center"
+    android:background="#66b2b2">
+
+    <EditText
+        android:id="@+id/etEnterMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="0.8"
+        android:layout_margin="10dp"
+        android:textColor="#ffffff"
+        android:inputType="text"
+        android:hint="@string/enter_message"/>
+
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="0.2"
+        android:layout_margin="10dp"
+        android:text="@string/submit"/>
+
+</LinearLayout>
